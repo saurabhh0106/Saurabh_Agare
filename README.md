@@ -1,4 +1,3 @@
-### Saurabh_Agare
 
 Hello, I'm Dhanashri Pramod Welde 👋 An MCA graduate and an enthusiastic Data Science student who loves diving into the world of data and machine learning. I enjoy tackling real-world challenges through data-driven solutions and continuously exploring emerging trends in AI and analytics.
 
