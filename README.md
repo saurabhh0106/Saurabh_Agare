@@ -1,5 +1,5 @@
 
-Hello, I'm Saurabh Dilip Agare 👋 An B.Tech graduate and an enthusiastic Data Analytics & Data Science student who loves diving into the world of data and sql libraries . I enjoy tackling real-world challenges through data-driven solutions and continuously exploring emerging trends in analytics.
+Hello, I'm Saurabh Agare 👋 An B.Tech graduate and an enthusiastic Data Analytics & Data Science student who loves diving into the world of data and sql libraries . I enjoy tackling real-world challenges through data-driven solutions and continuously exploring emerging trends in analytics.
 
 About Me 🎓 Currently learning Data Science at Imarticus Learning Pune. 🔢 Passionate about Data Visualization(PowerBI,Tableau), statistical analysis, and data visualization. 💻 Proficient in Python, Pandas, NumPy, scikit-learn, and Matplotlib. 👨‍💻 Constantly upgrading my skills with SQL, and Power BI. 🤖 Engaged in ML projects to gain hands-on experience with different algorithms.
 
